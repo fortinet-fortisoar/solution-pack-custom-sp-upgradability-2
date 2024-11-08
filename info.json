@@ -1,10 +1,10 @@
 {
-    "name": "customSPUpgradability-3",
+    "name": "customSPUpgradability-2",
     "version": "1.0.0",
     "fsrMinCompatibility": "7.2.0",
     "type": "solutionpack",
     "local": true,
-    "label": "Custom SP Upgradability-3",
+    "label": "Custom SP Upgradability-2",
     "dependencies": [
         {
             "name": "customSolutionPackUpgradability",
@@ -21,7 +21,7 @@
     "supportInfo": null,
     "iconLarge": null,
     "postInstallConfig": null,
-    "date": "2024-11-08T09:39:03+00:00",
+    "date": "2024-11-08T12:29:02+00:00",
     "contents": {
         "playbooks": [
             {
