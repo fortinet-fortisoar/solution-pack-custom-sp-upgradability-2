@@ -1,11 +1,18 @@
 {
-    "name": "customSPUpgradability-2",
+    "name": "customSPUpgradability-3",
     "version": "1.0.0",
     "fsrMinCompatibility": "7.2.0",
     "type": "solutionpack",
     "local": true,
-    "label": "Custom SP Upgradability-2",
-    "dependencies": [],
+    "label": "Custom SP Upgradability-3",
+    "dependencies": [
+        {
+            "name": "customSolutionPackUpgradability",
+            "type": "solutionpack",
+            "label": "Custom Solution Pack Upgradability",
+            "minVersion": "2.0.0"
+        }
+    ],
     "prerequisite": null,
     "publisher": "Community",
     "description": "",
@@ -14,22 +21,8 @@
     "supportInfo": null,
     "iconLarge": null,
     "postInstallConfig": null,
-    "date": "2024-11-08T09:18:46+00:00",
+    "date": "2024-11-08T09:39:03+00:00",
     "contents": {
-        "views": {
-            "navigation": [
-                "Dashboard",
-                "Queue & Shift Management",
-                "Incident Response",
-                "Automation",
-                "Resources",
-                "Reports",
-                "Widget Library",
-                "Content Hub",
-                "Help",
-                "User Community"
-            ]
-        },
         "playbooks": [
             {
                 "name": "Custom SP Upgrade 2"
