@@ -1,0 +1,51 @@
+{
+    "name": "customSPUpgradability-2",
+    "version": "1.0.0",
+    "fsrMinCompatibility": "7.2.0",
+    "type": "solutionpack",
+    "local": true,
+    "label": "Custom SP Upgradability-2",
+    "dependencies": [],
+    "prerequisite": null,
+    "publisher": "Community",
+    "description": "",
+    "help": null,
+    "category": [],
+    "supportInfo": null,
+    "iconLarge": null,
+    "postInstallConfig": null,
+    "date": "2024-11-08T09:18:46+00:00",
+    "contents": {
+        "views": {
+            "navigation": [
+                "Dashboard",
+                "Queue & Shift Management",
+                "Incident Response",
+                "Automation",
+                "Resources",
+                "Reports",
+                "Widget Library",
+                "Content Hub",
+                "Help",
+                "User Community"
+            ]
+        },
+        "playbooks": [
+            {
+                "name": "Custom SP Upgrade 2"
+            }
+        ],
+        "connectors": [
+            {
+                "name": "Exchange",
+                "apiName": "exchange"
+            }
+        ],
+        "widgets": [
+            {
+                "apiName": "setupGuide",
+                "name": "Setup Guide"
+            }
+        ]
+    }
+}
