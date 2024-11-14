@@ -1,0 +1,11 @@
+{
+    "@context": "\/api\/3\/contexts\/WorkflowCollection",
+    "@type": "WorkflowCollection",
+    "name": "Custom SP Upgrade 2",
+    "description": null,
+    "visible": true,
+    "image": null,
+    "uuid": "6cd463c4-55ad-46b1-9b31-eb96432f8b90",
+    "deletedAt": null,
+    "recordTags": []
+}
