@@ -1,0 +1,11 @@
+{
+    "@context": "\/api\/3\/contexts\/WorkflowCollection",
+    "@type": "WorkflowCollection",
+    "name": "SP2 Pre Install Playbooks",
+    "description": null,
+    "visible": true,
+    "image": null,
+    "uuid": "95c01064-38a7-480d-aa5d-3e492fc8c31f",
+    "deletedAt": null,
+    "recordTags": []
+}
