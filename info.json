@@ -1,6 +1,6 @@
 {
     "name": "customSPUpgradability-2",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "fsrMinCompatibility": "7.2.0",
     "type": "solutionpack",
     "local": true,
