@@ -341,28 +341,6 @@
             },
             {
                 "editMode": false,
-                "icon": "fa fa-user",
-                "items": [
-                    {
-                        "editMode": false,
-                        "icon": "fa fa-none",
-                        "require": {
-                            "action": "read",
-                            "module": "debit_cards"
-                        },
-                        "state": {
-                            "name": "main.modules.list",
-                            "parameters": {
-                                "module": "debit_cards"
-                            }
-                        },
-                        "title": "Debit Cards"
-                    }
-                ],
-                "title": "Debit Card Module"
-            },
-            {
-                "editMode": false,
                 "icon": "fa fa-th-large",
                 "items": [
                     {
